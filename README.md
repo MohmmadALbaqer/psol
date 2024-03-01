@@ -3,8 +3,8 @@
 ### What is it PSOL
 
 ```
-It is a tool similar to the Ngrok tool, the same process and work,
-it was designed specifically because of the ban problems in Ngrok,
+It is a tool similar to the Ngrok tool, the same process and work
+it was designed specifically because of the ban problems in Ngrok
 but this is the best and easiest way to solve problems.
 
 ```
