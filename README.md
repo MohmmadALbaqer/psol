@@ -1,6 +1,6 @@
 ![Logo](logo.png)
 
-### What is it PSOL
+### What is it PSOL?
 
 ```
 It is a tool similar to the Ngrok tool, the same process and work
