@@ -15,7 +15,7 @@ $ python3 psol.py
 
 ### SCREEN SHOT
 
-![Logo](intercace.png)
+![Logo](interface.png)
 ![Logo](WorkStyle.png)
 
 
