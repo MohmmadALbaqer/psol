@@ -6,7 +6,6 @@
 It is a tool similar to the Ngrok tool, the same process and work
 it was designed specifically because of the ban problems in Ngrok
 but this is the best and easiest way to solve problems.
-
 ```
 
 ### Installation (Linux)
@@ -19,6 +18,15 @@ $ chmod +x *
 $ sudo bash install.sh
 $ python3 psol.py
 
+```
+
+### Systems that support PSOL?
+
+```
+- Windows
+- Linux
+- MacBook
+- TERMUX
 ```
 
 ### SCREEN SHOT
