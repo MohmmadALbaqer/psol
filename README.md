@@ -15,7 +15,8 @@ $ git clone https://github.com/MohmmadALbaqer/psol.git
 $ cd psol
 $ pip3 install -r requirements.txt
 $ chmod +x *
-$ sudo bash install.sh
+$ sudo bash install.sh #Linux
+$ bash install-termux.sh #termux
 $ python3 psol.py
 
 ```
