@@ -2,7 +2,19 @@ import os
 from colorama import Fore, Style, Back
 from prettytable import PrettyTable
 
-os.system("clear")
+def clear_screen():
+    operating_system = os.name
+
+    try:
+        if operating_system == 'posix': 
+            os.system('clear')
+        elif operating_system == 'nt': 
+            os.system('cls')
+        else:
+            print("Unsupported operating system.")
+    except Exception as e:
+        print(f"An error occurred: {e}")
+clear_screen()
 
 print(f'''
                      {Fore.BLUE}. 
