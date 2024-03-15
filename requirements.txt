@@ -1,2 +1,4 @@
 colorama
 prettytable
+requests
+termcolor
