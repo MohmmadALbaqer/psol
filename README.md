@@ -1,4 +1,4 @@
-![Logo](logo.png)
+![Logo](LOGO.png)
 
 ### What is it PSOL?
 
