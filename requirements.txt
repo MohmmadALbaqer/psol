@@ -1,4 +1,4 @@
-socket
 prettytable
 requests
 datetime
+socket
