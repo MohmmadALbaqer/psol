@@ -33,7 +33,7 @@ $ python3 psol.py
 ### SCREEN SHOT
 
 ![Logo](interface.png)
-![Logo](WorkStyle.png)
+
 
 
 ## [~] Find Me on :
