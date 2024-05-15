@@ -1,4 +1,4 @@
-colorama
+socket
 prettytable
 requests
-termcolor
+datetime
