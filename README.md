@@ -32,7 +32,7 @@ $ python3 psol.py
 
 ### SCREEN SHOT
 
-![Logo](interface.png)
+![Logo](Screenshot_psol.png)
 
 
 
